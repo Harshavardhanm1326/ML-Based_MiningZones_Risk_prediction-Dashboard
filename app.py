@@ -16,7 +16,7 @@ import random
 
 st.set_page_config(page_title="Risky Mines", layout="wide")
 
-BASE_PATH = "data"
+BASE_PATH = "final_folder"
 
 def clean_name(name: str) -> str:
     return name.replace("data_", "").replace("_", " ").strip()
