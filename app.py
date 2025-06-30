@@ -176,7 +176,7 @@ elif st.session_state.viz_open:
     st.markdown(
     """
     <br>
-    <a href="https://colab.research.google.com/drive/18UlMA55yfgzY0OnwgcAKYVDW6LQ7yyoP?usp=sharing" target="_blank">
+    <a href="https://colab.research.google.com/drive/1HU_k1Z9YzUxD8UxiKq8-ZLqswKj-QAI5?usp=sharing" target="_blank">
         <button style="background-color:#2e7d32; color:white; padding:10px 20px; border:none; border-radius:8px; font-weight:bold;">
             🔗 See the Model Notebook
         </button>
